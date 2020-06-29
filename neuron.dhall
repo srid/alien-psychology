@@ -1,8 +1,8 @@
-{ siteTitle = "Neuron Template"
-, author = Some "John Doe"
-, siteBaseUrl = Some "https://srid.github.io/neuron-template"
+{ siteTitle = "Alien Psychology"
+, author = Some "Sridhar Ratnakumar"
+, siteBaseUrl = Some "https://srid.github.io/alien-psychology"
 -- List of themes: https://neuron.zettel.page/2014601.html
-, theme = "teal"
-, editUrl = Some "https://github.com/srid/neuron-template/edit/master/"
+, theme = "red"
+, editUrl = Some "https://github.com/srid/alien-psychology/edit/master/"
 , mathJaxSupport = False
 }
