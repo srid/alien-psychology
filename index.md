@@ -8,4 +8,6 @@
 
 ## Browse by episodes
 
+Visit <episodes?cf>, or look at full list here:
+
 <z:zettels?tag=season/**&cf>
