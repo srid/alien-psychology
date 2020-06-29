@@ -4,7 +4,7 @@ tags:
   - psychology
 ---
 
-# Growing old
+# Age
 
 <z:zettels?tag=psychology/age>
 
