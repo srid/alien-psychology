@@ -6,5 +6,5 @@ tags:
 
 # Growing old
 
-<z:zettels?tag=psychology/growing-old>
+<z:zettels?tag=psychology/age>
 
