@@ -1,6 +1,10 @@
 ---
 date: 2020-06-29
+tags:
+  - psychology
 ---
 
-# New zettel on 2020-06-29
+# Self-Help
+
+<z:zettels?tag=psychology/self-help>
 
