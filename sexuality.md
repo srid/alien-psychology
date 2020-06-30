@@ -6,4 +6,7 @@ tags:
 
 # Sexuality
 
+* <relationship>
+
 <z:zettels?tag=psychology/sexuality>
+
