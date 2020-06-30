@@ -6,4 +6,4 @@ tags:
 
 # Sexuality
 
-<z:zettels?tag=psychology/sexuality/**>
+<z:zettels?tag=psychology/sexuality>
