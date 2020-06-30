@@ -1,6 +1,10 @@
 ---
 date: 2020-06-30
+tags:
+  - psychology
 ---
 
-# New zettel on 2020-06-30
+# Gender
+
+<z:zettels?tag=psychology/gender>
 
