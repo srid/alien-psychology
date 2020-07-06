@@ -1,6 +1,10 @@
 ---
 date: 2020-07-06
+tags:
+  - psychology
 ---
 
-# New zettel on 2020-07-06
+# Fashion
+
+<z:zettels?tag=psychology/fashion>
 
