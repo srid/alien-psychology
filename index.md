@@ -10,4 +10,4 @@
 
 Visit <episodes?cf>, or look at full list here:
 
-<z:zettels?tag=season/**&cf>
+<z:zettels?tag=season/**&cf&grouped&showid>
