@@ -8,6 +8,6 @@
 
 ## Browse by episodes
 
-Visit <episodes?cf>, or look at full list here:
+Visit [[episodes]], or look at full list here:
 
 [[z:zettels?tag=season/**&grouped&showid]]
