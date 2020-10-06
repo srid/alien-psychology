@@ -6,5 +6,5 @@ tags:
 
 # Gender
 
-<z:zettels?tag=psychology/gender>
+[[[z:zettels?tag=psychology/gender]]]
 
