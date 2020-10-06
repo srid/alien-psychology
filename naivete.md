@@ -10,4 +10,4 @@ tags:
 
 * [[[flattery]]]
 
-<z:zettels?tag=psychology/naivete>
+[[[z:zettels?tag=psychology/naivete]]]
