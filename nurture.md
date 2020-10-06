@@ -6,5 +6,5 @@ tags:
 
 # Nurture
 
-<z:zettels?tag=psychology/nurture>
+[[[z:zettels?tag=psychology/nurture]]]
 
