@@ -6,5 +6,5 @@ tags:
 
 # Age
 
-<z:zettels?tag=psychology/age>
+[[[z:zettels?tag=psychology/age]]]
 
