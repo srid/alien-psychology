@@ -6,5 +6,5 @@ tags:
 
 # Fame
 
-<z:zettels?tag=psychology/fame/**&grouped>
+[[[z:zettels?tag=psychology/fame/**&grouped]]]
 
