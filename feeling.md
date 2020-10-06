@@ -6,5 +6,5 @@ tags:
 
 # Feeling
 
-<z:zettels?tag=psychology/feeling>
+[[[z:zettels?tag=psychology/feeling]]]
 
