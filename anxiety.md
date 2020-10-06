@@ -6,5 +6,5 @@ tags:
 
 # Anxiety
 
-<z:zettels?tag=psychology/anxiety/**&grouped>
+[[[z:zettels?tag=psychology/anxiety/**&grouped]]]
 
