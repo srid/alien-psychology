@@ -6,5 +6,5 @@ tags:
 
 # Fashion
 
-<z:zettels?tag=psychology/fashion>
+[[[z:zettels?tag=psychology/fashion]]]
 
