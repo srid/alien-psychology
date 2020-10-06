@@ -6,5 +6,5 @@ tags:
 
 # Self-Help
 
-<z:zettels?tag=psychology/self-help>
+[[[z:zettels?tag=psychology/self-help]]]
 
