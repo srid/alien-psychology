@@ -6,7 +6,7 @@ tags:
 
 # Sexuality
 
-* <relationship>
+* [[[relationship]]]
 
-<z:zettels?tag=psychology/sexuality>
+[[[z:zettels?tag=psychology/sexuality]]]
 
