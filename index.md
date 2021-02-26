@@ -1,3 +1,8 @@
+---
+dirtree:
+  display: false
+---
+
 # Alien Psychology
 
 **3rd Rock From The Sun** is a one-of-a-kind sitcom, that is blithely revealing (no holds barred) of the various human psychological archetypes. This website aims to categorize the various episodes in terms of the patterns they reveal. It is currently very much a work in progress.
@@ -8,6 +13,6 @@
 
 ## Browse by episodes
 
-Visit [[episodes]], or look at full list here:
+Visit [[Seasons]]#, or look at full list here:
 
-[[z:zettels?tag=season/**&grouped&showid]]
+[[z:zettels?tag=root/Seasons/*&grouped&showid]]
