@@ -1,0 +1,12 @@
+# For documentation and available settings, see
+# https://github.com/srid/emanote/blob/master/default/index.yaml
+
+page:
+  siteTitle: Alien Psychology
+
+template:
+  theme: red
+  name: /templates/layouts/note
+  sidebar:
+    collapsed: true
+  urlStrategy: pretty
