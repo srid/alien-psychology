@@ -6,7 +6,7 @@ page:
 
 template:
   theme: red
+  name: /templates/layouts/note
   sidebar:
     collapsed: true
-  # If you are hosting on GitLab Pages, you may want to remove this.
   urlStrategy: pretty
